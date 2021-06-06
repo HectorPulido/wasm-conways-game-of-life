@@ -2,8 +2,8 @@
 
 ![Test](/img/img.png)<br/>
 
-Idea taked from: https://rustwasm.github.io/docs/book/game-of-life/implementing.html
-Structure taked from: https://rustwasm.github.io/docs/wasm-bindgen/examples/without-a-bundler.html
+Idea taked from: https://rustwasm.github.io/docs/book/game-of-life/implementing.html<br/>
+Structure taked from: https://rustwasm.github.io/docs/wasm-bindgen/examples/without-a-bundler.html<br/>
 
 ## How to run 
 You can run 
