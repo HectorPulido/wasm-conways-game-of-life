@@ -8,7 +8,7 @@ Structure taked from: https://rustwasm.github.io/docs/wasm-bindgen/examples/with
 ## How to run 
 You can run 
 ```
-$ ./build.sh
+$ source build.sh
 ```
 
 Or if you want to do it by hand
